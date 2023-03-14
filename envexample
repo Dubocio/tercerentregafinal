@@ -1,0 +1,6 @@
+URL_MONGO= "xxx"
+PORT = "xxx"
+PASS_EMAIL_API= "xxx"
+EMAIL= "xxx"
+SESSION_SECRET = "xxx"
+PASS = "xxx"
